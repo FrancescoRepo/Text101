@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0603da8d22d39924dbf40b7af3100e6d, type: 3}
+  m_Name: A4. Entro con il camion
+  m_EditorClassIdentifier: 
+  storyText: "Entro in possesso del camion dei rifornimenti, arrivo all'ingresso,
+    le guardie controllano il contenuto del camion, si scambiano delle parole tra
+    loro e alla fine mi danno il via libera per passare.\r\n\r\nSono nel rifugio adesso.
+    Parcheggio il camion nell'area di scarico, mi guardo intorno per trovare l'ingresso
+    del bunker. L'ingresso \xE8 posizionato vicino al parcheggio degli elicotteri.
+    Devo entrare nel bunker senza essere visto.\r\n\r\n1)Dico alle guardie che devo
+    pisciare e mi allontano 5 minuti."
+  nextStates:
+  - {fileID: 11400000, guid: 40c4e3840a0775c4daa1c497e3654db8, type: 2}

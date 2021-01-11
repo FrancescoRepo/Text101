@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0603da8d22d39924dbf40b7af3100e6d, type: 3}
+  m_Name: A10. Lo tramortizzo
+  m_EditorClassIdentifier: 
+  storyText: "Mentre parla al telefono, mi avvicino in silenzio da dietro e lo tramortizzo,
+    chiudendo la telefonata. I documenti sono sulla scrivania, la mia missione \xE8
+    compiuta. Chiamo per un estrazione\r\n\r\n1) Continua"
+  nextStates:
+  - {fileID: 11400000, guid: e33418f9e7fa5b84988e6461f0ab2d15, type: 2}

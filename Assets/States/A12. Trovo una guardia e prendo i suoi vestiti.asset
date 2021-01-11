@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0603da8d22d39924dbf40b7af3100e6d, type: 3}
+  m_Name: A12. Trovo una guardia e prendo i suoi vestiti
+  m_EditorClassIdentifier: 
+  storyText: "Cerco la prima guardia vicina alla mia posizione, mi avvicino furtivamente
+    ma la puzza dei miei vestiti prende il sopravvento. La guardia si gira di scatto,
+    mi individua e d\xE0 l'allarme.\n\n1)Continua"
+  nextStates:
+  - {fileID: 11400000, guid: fec802a0ad08f3a4696ebaea8fabcb1a, type: 2}

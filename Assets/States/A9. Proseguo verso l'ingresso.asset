@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0603da8d22d39924dbf40b7af3100e6d, type: 3}
+  m_Name: A9. Proseguo verso l'ingresso
+  m_EditorClassIdentifier: 
+  storyText: "Mi dirigo verso l'ingresso del bunker, sento il vociare delle guardie
+    lamentarsi di una strana puzza nell'aria. Entro nel bunker senza fare troppi rumori,
+    richiudo la porta dietro di me e analizzo il posto. Una stanza pi\xF9 o meno illuminata
+    con una scala che porta a un accesso sotterraneo. Kosolov \xE8 sicuramente l\xEC
+    sotto con i documenti\r\n\r\n1)Scendo a cercare Kosolov"
+  nextStates:
+  - {fileID: 11400000, guid: 0fbee1abed9fe6b4e8f92d0c098d6152, type: 2}
